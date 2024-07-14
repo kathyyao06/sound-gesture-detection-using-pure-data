@@ -1,2 +1,12 @@
-# sound-gesture-detection-using-pure-data
-A robust classifier that detects six sound gestures by their sound signature, using pure data.
+# Sound Gesture Classifier Using Pure Data
+
+A robust classifier that detects six sound gestures by their sound signature, using pure data. The classifier will perform a different linux command for every sound made. 
+
+# Six Sound Gestures
+- Knocking on a table -> Prints the date
+- Tapping on the computer microphone -> Prints the time
+- "Shhh" sound with mouth -> pwd linux command
+- Shaking a blender bottle -> df linux command
+- Crinkling plastic -> ls -l linux command
+- Hitting a couch with palm -> ls linux command
+
